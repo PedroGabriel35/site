@@ -3,7 +3,7 @@
     padding: 0;
     }
     header {
-    background-color: #2f830e;
+    background-color: #154900;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -24,7 +24,7 @@
     right: 40%;
     }
     .profissao {
-    background-image: linear-gradient(#1b7c0c, #20c72e);
+    background-image: linear-gradient(#0f7400, #00c510);
     color: white;
     display: flex;
     justify-content: center;
