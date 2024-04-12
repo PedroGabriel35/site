@@ -19,7 +19,8 @@
     font-size: 18px;
     }
     .profissao-imagem {
-    width: 56%;
+    width: 60%;
+    height: 60%;
     right: 40%;
     }
     .profissao {
@@ -46,7 +47,7 @@
     }
     
     .profissao-imagem{
-    width: 140px;
+    width: 60px;
     top: 10%;
     }
     .profissao-icone{
